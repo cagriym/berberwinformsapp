@@ -1,0 +1,523 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|c:\\users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\raporlamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\raporlamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\connectionstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\connectionstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\contactmessagesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\contactmessagesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ihtiyaclarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\ihtiyaclarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\musterilerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\musterilerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\randevularform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\randevularform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\servislerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\servislerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\servislerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\servislerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\dashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\musterilerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\musterilerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\personelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\randevularform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\randevularform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\randevularform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\randevularform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\dashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\raporlamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\raporlamaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\raporlamaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\raporlamaform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\contactmessagesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\contactmessagesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ihtiyaclarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\ihtiyaclarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\musterilerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\musterilerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\personelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\personelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ihtiyaclarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\ihtiyaclarform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ServislerForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6E78FE-50E2-4212-86D9-230D04947B29}|berberdenemeson\\berberdenemeson.csproj|solutionrelative:berberdenemeson\\ServislerForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\LoginForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:33:09.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IhtiyaclarForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\IhtiyaclarForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\IhtiyaclarForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\IhtiyaclarForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\IhtiyaclarForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:51:41.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\DashboardForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\DashboardForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:49:51.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RaporlamaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RaporlamaForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\RaporlamaForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RaporlamaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\RaporlamaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:59:54.537Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MainForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\MainForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:44:53.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactMessagesForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ContactMessagesForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\ContactMessagesForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ContactMessagesForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\ContactMessagesForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T16:28:03.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionStatusForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ConnectionStatusForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\ConnectionStatusForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ConnectionStatusForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\ConnectionStatusForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T21:23:18.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusterilerForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MusterilerForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\MusterilerForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MusterilerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\MusterilerForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:50:08.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonelForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\PersonelForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\PersonelForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\PersonelForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\PersonelForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:51:49.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RandevularForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RandevularForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\RandevularForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RandevularForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\RandevularForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:47:54.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServislerForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ServislerForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\ServislerForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ServislerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "berberdenemeson\\ServislerForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:14:36.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServislerForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ServislerForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\ServislerForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ServislerForm.cs",
+              "RelativeToolTip": "berberdenemeson\\ServislerForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:09:21.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServislerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ServislerForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\ServislerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ServislerForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\ServislerForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:09:25.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\DashboardForm.cs",
+              "RelativeToolTip": "berberdenemeson\\DashboardForm.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAawJwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:50:23.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ApiService.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\ApiService.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ApiService.cs",
+              "RelativeToolTip": "berberdenemeson\\ApiService.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAcwKEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:40:37.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MainForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\MainForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MainForm.cs",
+              "RelativeToolTip": "berberdenemeson\\MainForm.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwH4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:44:56.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MusterilerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MusterilerForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\MusterilerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MusterilerForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\MusterilerForm.Designer.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAuwA8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:50:51.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RaporlamaForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RaporlamaForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\RaporlamaForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RaporlamaForm.cs",
+              "RelativeToolTip": "berberdenemeson\\RaporlamaForm.cs",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAuwJ0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:30:49.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonelForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\PersonelForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\PersonelForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\PersonelForm.cs",
+              "RelativeToolTip": "berberdenemeson\\PersonelForm.cs",
+              "ViewState": "AgIAAG4BAAAAAAAAAAAuwJMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:52:35.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RandevularForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RandevularForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\RandevularForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RandevularForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\RandevularForm.Designer.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAuwB4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:48:24.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\DashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAANABAAAAAAAAAAAuwPUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:50:37.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RandevularForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RandevularForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\RandevularForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RandevularForm.cs",
+              "RelativeToolTip": "berberdenemeson\\RandevularForm.cs",
+              "ViewState": "AgIAANUBAAAAAAAAAAAuwPoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:47:58.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RaporlamaForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RaporlamaForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\RaporlamaForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\RaporlamaForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\RaporlamaForm.Designer.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAuwKIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:32:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\LoginForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\LoginForm.cs",
+              "RelativeToolTip": "berberdenemeson\\LoginForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwDwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:36:09.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ContactMessagesForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ContactMessagesForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\ContactMessagesForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\ContactMessagesForm.cs",
+              "RelativeToolTip": "berberdenemeson\\ContactMessagesForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:49:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersonelForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\PersonelForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\PersonelForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\PersonelForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\PersonelForm.Designer.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAuwNYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:52:30.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MusterilerForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MusterilerForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\MusterilerForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MusterilerForm.cs",
+              "RelativeToolTip": "berberdenemeson\\MusterilerForm.cs",
+              "ViewState": "AgIAAEkBAAAAAAAAAAA8wG4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:50:46.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IhtiyaclarForm.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\IhtiyaclarForm.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\IhtiyaclarForm.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\IhtiyaclarForm.cs",
+              "RelativeToolTip": "berberdenemeson\\IhtiyaclarForm.cs",
+              "ViewState": "AgIAAE4BAAAAAAAAAAA8wHMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:52:19.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\Program.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\Program.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\Program.cs",
+              "RelativeToolTip": "berberdenemeson\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:40:11.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IhtiyaclarForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\IhtiyaclarForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\IhtiyaclarForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\IhtiyaclarForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\IhtiyaclarForm.Designer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:52:21.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\MainForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T07:45:01.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "berberdenemeson\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\xmemo\\source\\repos\\berberdenemeson\\berberdenemeson\\LoginForm.Designer.cs",
+              "RelativeToolTip": "berberdenemeson\\LoginForm.Designer.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:36:20.016Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
